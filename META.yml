@@ -22,4 +22,4 @@ requires:
   perl: 5.006001
 resources:
   repository: http://github.com/jettero/gd--graph--hooks/
-version: 1.0000
+version: 1.0001
